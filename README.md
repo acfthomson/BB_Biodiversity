@@ -12,3 +12,13 @@ Biomanufacturing food company Improbable Beef is looking for people who carry a 
 
 
 ## Results
+The final product allows the research volunteers to choose their Test Subject ID from a dropdown menu, which will display the volunteer's demographic information.
+
+A bar graph is displayed that shows the top 10 bacterial cultures found on the research volunteer.  Volunteers can hover their cursor over each bar to see which bacterial cultures are most prevalent.  
+
+Research volunteers will also see a bubble chart that displays bacterial cultures per sample.  This chart also allows users to see the prevalence of certain bacterial cultures when they hover their cursor over a bubble.
+
+Lastly, a guage chart is displayed that shows the frequency of washing conducted by the volunteer on a weekly basis.
+
+
+![image](Dashboard.PNG)
